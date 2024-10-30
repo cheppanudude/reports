@@ -53,7 +53,7 @@
 	<distributionManagement>
 	    <repository>
 	         <id>report-releases</id>
-        <url>http://localhost:8081/repository/report-releases</url>
+        <url>http://43.205.199.157:8081/repository/maven-releases/</url>
 	    </repository>
 	</distributionManagement>
 	
